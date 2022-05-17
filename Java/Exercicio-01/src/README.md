@@ -4,7 +4,7 @@
 Exercício 1: Uma loja que vende CD e DVDS deseja construir um
 cadastro com dos seus produtos. Para tanto, foi elaborado o diagrama
 de classes dado na figura abaixo.
-![img](.github/images/diagrama_heranca.png)
+![img](.github/images/UML - Exercicio-01.png)
 
 A tabela abaixo fornece uma descrição dos métodos que deverão ser
 elaborados para cada uma das classes.
