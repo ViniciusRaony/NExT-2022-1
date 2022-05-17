@@ -1,10 +1,9 @@
 # Exercício sobre polimorfismo - sobreposição e sobrescrita de métodos
 
-## Exercícios
-Exercício 1: Uma loja que vende CD e DVDS deseja construir um
-cadastro com dos seus produtos. Para tanto, foi elaborado o diagrama
-de classes dado na figura abaixo.
-![img](.UML - Exercicio-01.png)
+## Exercício
+Uma loja que vende CD e DVDS deseja construir um cadastro com dos seus produtos. Para tanto, foi elaborado o diagrama de classes dado na figura abaixo.
+
+![UML - Exercicio-01](https://user-images.githubusercontent.com/100242220/168829966-eb0ecd56-46a1-4ac0-b650-fe2c6d0d14a7.png)
 
 A tabela abaixo fornece uma descrição dos métodos que deverão ser
 elaborados para cada uma das classes.
