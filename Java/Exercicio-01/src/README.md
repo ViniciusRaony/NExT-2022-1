@@ -17,7 +17,7 @@ elaborados para cada uma das classes.
 
 Além dos métodos descritos na tabela a cima, deverão ser criados os métodos get e set correspondentes para retorna e modificar o conteúdo dos campos, respectivamente, bem como os construtores com e sem parâmetros de cada classe. Criar um programa que simule o uso de um cadastro de CD e DVDs.
 
-App.java (main)
-Midia.java (Superclass)
-DVD.java (Subclass)
-CD.java (Subclass)
+| App.java (main) |
+| Midia.java (Superclass) |
+| DVD.java (Subclass) |
+| CD.java (Subclass) |
