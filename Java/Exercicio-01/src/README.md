@@ -16,3 +16,8 @@ elaborados para cada uma das classes.
 | inserirDados() 	| Insere os dados necessários para se preencher os campos de um objeto de uma dada classe. Seu comportamento é polimórfico. 	|
 
 Além dos métodos descritos na tabela a cima, deverão ser criados os métodos get e set correspondentes para retorna e modificar o conteúdo dos campos, respectivamente, bem como os construtores com e sem parâmetros de cada classe. Criar um programa que simule o uso de um cadastro de CD e DVDs.
+
+App.java (main)
+Midia.java (Superclass)
+DVD.java (Subclass)
+CD.java (Subclass)
